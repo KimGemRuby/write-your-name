@@ -2,6 +2,9 @@
 
 Visualize the Learning Process  
 
+![Alt Text](https://giphy.com/embed/ExMGjbktr4phe)
+![Alt Text](https://giphy.com/gifs/aww-edition-ExMGjbktr4phe)
+
 ![Alt Text](https://github.com/KimGemRuby/write-your-name/blob/pimp_readme/Learning.gif)
 
 
