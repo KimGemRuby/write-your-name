@@ -1,9 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Visualize the Learning Process  
 
-Things you may want to cover:
+![Alt Text](https://github.com/KimGemRuby/write-your-name/blob/pimp_readme/Learning.gif)
+
 
 * Ruby version
 
